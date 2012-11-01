@@ -11,7 +11,7 @@ using Microsoft.SqlServer.Management.Sdk.Sfc;
 using System.Xml;
 using System.Data;
 
-namespace BumbleBee.DBManagers
+namespace DBJetpack.DBManagers
 {
     class SqlServer2008Reader : IDatabaseReader
     {

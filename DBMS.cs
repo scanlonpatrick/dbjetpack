@@ -1,5 +1,5 @@
 ﻿
-namespace BumbleBee
+namespace DBJetpack
 {
     public enum DBMS
     {

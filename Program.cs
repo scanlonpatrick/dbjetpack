@@ -11,7 +11,7 @@ using Microsoft.SqlServer.Management.Sdk.Sfc;
 using System.Xml;
 using System.Data;
 
-namespace BumbleBee
+namespace DBJetpack
 {
     class Program
     {
@@ -34,7 +34,7 @@ namespace BumbleBee
 
             //* parse args
             //  the first arg should be either "read" or "write" (i.e. the "mode")
-            if (!(args[0] == "read" || args[0] == "write" || args[0] == "prep")) throw new ApplicationException("the first argument to BumbleBee must be \"read\" or \"write\"");
+            if (!(args[0] == "read" || args[0] == "write" || args[0] == "prep")) throw new ApplicationException("the first argument to DBJetpack must be \"read\" or \"write\"");
 
             foreach (string arg in args)
             {

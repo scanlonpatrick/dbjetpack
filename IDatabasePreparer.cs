@@ -5,7 +5,7 @@ using System.Text;
 using Microsoft.SqlServer.Management.Smo;
 using System.IO;
 
-namespace BumbleBee
+namespace DBJetpack
 {
     public interface IDatabasePreparer
     {
