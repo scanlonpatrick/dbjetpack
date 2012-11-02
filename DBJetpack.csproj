@@ -8,8 +8,8 @@
     <ProjectGuid>{593EC89C-7092-49AC-837A-1B9CE145E0A5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BumbleBee</RootNamespace>
-    <AssemblyName>BumbleBee</AssemblyName>
+    <RootNamespace>DBJetpack</RootNamespace>
+    <AssemblyName>DBJetpack</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
